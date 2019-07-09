@@ -3,6 +3,15 @@
 *.iml
 out/
 
+### Code ###
+.vscode/
+
+### Eclipse ###
+.metadata
+.project
+.classpath
+.settings/
+
 ### Java ###
 # Compiled class file
 *.class
