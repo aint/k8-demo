@@ -11,7 +11,7 @@
 	<groupId>com.github.aint</groupId>
 	<artifactId>svc1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>srv1</name>
+	<name>svc1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
